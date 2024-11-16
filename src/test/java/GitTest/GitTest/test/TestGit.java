@@ -14,6 +14,7 @@ public class TestGit {
 		System.out.println("test git1");
 		System.out.println("test git2");
 		System.out.println("test git3");
+		System.out.println("test git4");
 		
 	}
 
