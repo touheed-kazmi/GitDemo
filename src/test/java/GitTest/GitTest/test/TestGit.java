@@ -18,6 +18,9 @@ public class TestGit {
 		
 		System.out.println("second git1");
 		System.out.println("second git2");
+		
+		System.out.println("branch 1");
+
 	}
 
 }
