@@ -11,11 +11,13 @@ public class TestGit {
 //		WebDriver driver = new FirefoxDriver();
 //		driver.get("https://test.salesforce.com");
 		
-		System.out.println("test git1");
-		System.out.println("test git2");
-		System.out.println("test git3");
-		System.out.println("test git4");
+		System.out.println("first git1");
+		System.out.println("first git2");
+		System.out.println("first git3");
+		System.out.println("first git4");
 		
+		System.out.println("second git1");
+		System.out.println("second git2");
 	}
 
 }
